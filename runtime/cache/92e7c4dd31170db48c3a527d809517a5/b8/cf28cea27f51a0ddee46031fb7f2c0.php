@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+{"switch":"1","condition":"0","name":"\u6211\u7684\u5206\u9500\u5546","pattern":"0","order_rate":"20","first_name":"\u4e00\u7ea7\u5206\u9500","first_rate":"70","second_name":"\u4e8c\u7ea7\u5206\u9500","second_rate":"20","third_name":"\u4e09\u7ea7\u5206\u9500","third_rate":"10","date":"1","form_submit":"ok","qrcode_menu_word":"distribut_qrcode","qrcode_input_word":"\u6211\u7684\u4e8c\u7ef4\u7801","qr_back":"\/public\/upload\/weixin\/2017\/10-27\/e9823d589b202818c86511be60a6b65a.jpg","qr_big_back":"\/public\/upload\/weixin\/2017\/10-27\/ddbf260c88c706b38473dc6972b66c42.jpg","own_rate":"10","regrade":"1"}

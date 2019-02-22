@@ -1,0 +1,4 @@
+<?php
+//000000000001
+ exit();?>
+[{"ad_id":5,"pid":52,"media_type":0,"ad_name":"\u81ea\u5b9a\u4e49\u5e7f\u544a\u540d\u79f0","ad_link":"javascript:void(0);","ad_code":"\/public\/upload\/ad\/2018\/04-09\/26c1fa2220802a0d27beee0991d8c4d1.jpg","start_time":1451577600,"end_time":1767283200,"link_man":"","link_email":"","link_phone":"","click_count":0,"enabled":1,"orderby":0,"target":0,"bgcolor":"#000000"},{"ad_id":6,"pid":52,"media_type":0,"ad_name":"\u81ea\u5b9a\u4e49\u5e7f\u544a\u540d\u79f0","ad_link":"javascript:void(0);","ad_code":"\/public\/upload\/ad\/2018\/04-09\/8163831b208ddd86d7f12f97277b4dc4.jpg","start_time":1451577600,"end_time":1767283200,"link_man":"","link_email":"","link_phone":"","click_count":0,"enabled":1,"orderby":0,"target":0,"bgcolor":"#000000"}]
