@@ -1,7 +1,7 @@
 <?php
 return [
     'template' => [
-        // 模板引擎类型 支持 php think 支持扩展11111
+        // 模板引擎类型 支持 php think 支持扩展11111222333
         'type' => 'Think',
         // 模板路径
         'view_path' => './application/admin/view/',
